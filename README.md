@@ -33,5 +33,6 @@
 <h2>Disclaimer:</h2>
 <p>The information, techniques, and tools presented in this project are for educational purposes only. Users are advised to use these resources responsibly and ethically, adhering to all applicable laws and regulations. The project creator assumes no liability for misuse or any consequences resulting from unauthorized activities.</p>
 
-    <p>By following this guide, participants can embark on a journey to sharpen their penetration testing skills, emulate real-world scenarios, and conquer the Mr. Robot: 1 VM challenge.</p>
+<p>By following this guide, participants can embark on a journey to sharpen their penetration testing skills, emulate real-world scenarios, and conquer the Mr. Robot: 1 VM challenge.</p>
 
+<p><i>Ayush Sharma & Aditya Lawand</i></p>
