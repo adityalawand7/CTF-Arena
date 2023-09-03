@@ -1,8 +1,8 @@
 
-    <h1>Mr. Robot: 1 VM Penetration Testing Guide</h1>
+<h1>Mr. Robot: 1 VM Penetration Testing Guide</h1>
 
-    <h2>Description:</h2>
-    <p>The Mr. Robot: 1 VM Penetration Testing Guide project is an in-depth, step-by-step walkthrough of the Mr. Robot: 1 virtual machine challenge available on VulnHub. This guide provides aspiring and experienced cybersecurity enthusiasts with a comprehensive roadmap to successfully conquer this capture the flag (CTF)-style challenge.</p>
+<h2>Description:</h2>
+<p>The Mr. Robot: 1 VM Penetration Testing Guide project is an in-depth, step-by-step walkthrough of the Mr. Robot: 1 virtual machine challenge available on VulnHub. This guide provides aspiring and experienced cybersecurity enthusiasts with a comprehensive roadmap to successfully conquer this capture the flag (CTF)-style challenge.</p>
 
     <h2>Project Objectives:</h2>
     <ol>
